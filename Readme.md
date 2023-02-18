@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Петр Обинцев](https://up.htmlacademy.ru/javascript/28/user/2121259).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Кислый](https://htmlacademy.ru/profile/smart-grizzly).
 
 ---
 
